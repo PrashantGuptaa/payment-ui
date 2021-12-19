@@ -14,4 +14,4 @@ Functionality it offers-
 3. Bill Book Page (can be navigated to but there is no content available)
 4. More Section (can be navigated to but there is no content available)
 5. Pay Now button on home page
-6. Simpl partners at bottom of home screen is horizontallu scrollable
+6. Simpl partners at bottom of home screen is horizontally scrollable
