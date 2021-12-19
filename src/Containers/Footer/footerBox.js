@@ -12,7 +12,6 @@ const FooterBox = (props) => {
             case footerAsset[2].title:
                return "/billbook";
             case footerAsset[1].title:
-                console.log(title, footerAsset[1].title);
               return "/passbook";
             case footerAsset[3].title:
               return '/more';     

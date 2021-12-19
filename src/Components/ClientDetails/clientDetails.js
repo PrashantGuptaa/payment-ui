@@ -1,4 +1,5 @@
 import React from 'react';
+import { convertToIndianMoneyFormat } from '../../utils/helperFn';
 import '../component.css';
 const ClientDetails = (props) => {
     const { name, bill } = props;
@@ -12,7 +13,7 @@ const ClientDetails = (props) => {
           
             <div className='column right'>
             <span className='dull'>Upgrade credit limit</span>
-            <span>{`${bill} >`}</span>
+            <span>{`${convertToIndianMoneyFormat(bill)} >`}</span>
             </div>
             </div>
         </section>

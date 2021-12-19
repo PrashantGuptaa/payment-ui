@@ -38,3 +38,13 @@ padding:30px 40px;
 .font12 {
     font-size: 12px;
 }
+
+.danger {
+    color: red;
+}
+
+.iconalign {
+    display: flex;
+    align-items: center;
+        gap: 5px;
+}
