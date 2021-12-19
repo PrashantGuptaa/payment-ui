@@ -1,0 +1,16 @@
+.App {
+  width: 360px;
+  height: 100vh;
+  margin: auto;
+  background-color:  #E5E5E5;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.container {
+  background-color: #E5E5E5;
+  width: 360px;
+  height: 100vh;
+  position: absolute;
+}

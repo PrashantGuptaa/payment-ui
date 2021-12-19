@@ -1,0 +1,31 @@
+.footer{
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+    justify-content: space-around;
+    height: 56px;
+    width: inherit;
+}
+
+.footericon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10px;
+    cursor: pointer;   
+    color: rgb(56, 55, 55);
+    width: inherit;
+    text-decoration: none;
+}
+
+.scaleup {
+    transform: scale(2.8);
+}
+
+.active {
+    color:  #00D1C1;
+    border-top: 3px solid #00D1C1;
+}
