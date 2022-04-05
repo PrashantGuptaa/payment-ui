@@ -4,6 +4,8 @@ https://github.com/PrashantGuptaa/payment-ui
 
 cd your-path-to-cloned-repo
 
+npm i
+
 RUN npm start
 
 
